@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: GuildBankTabFeeFixer
+## Notes: Modifies the guild bank tab fee displayed in the client.
+## LoadOnDemand: 1
+## LoadWith: Blizzard_GuildBankUI
+GuildBankTabFeeFixer.lua
